@@ -77,7 +77,7 @@ game_on = False
 
 #opening statement
 clear_screen()
-print ('Welcome to the Hangman!\n')
+print ('Welcome to the Hangman... Loser!')
 
 #ask player to start the game
 while game_on is False:	
